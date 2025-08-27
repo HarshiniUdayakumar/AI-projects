@@ -1,7 +1,7 @@
 # Image Classification Project  
 
 This project focuses on building an **Image Classification model** using deep learning.  
-It uses a pre-trained model (such as **MobileNetV2 / CNN**) to classify images into different categories.  
+It uses a pre-trained model (such as **CNN**) to classify images into different categories.  
 
 ## Project Structure
 
